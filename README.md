@@ -1,3 +1,5 @@
+This is a simple receipt maker that calculate and make summary of all receipt of buyer in my parent small business. This project exists because there is a buyer of my parents business, that always buy a lot of things. The buyer wants receipts to be made as quickly as possible. So i make this simple web-based-app to handle it. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
